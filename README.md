@@ -1,6 +1,7 @@
 <h1>bamazon</h1>
 
 <h4>Node.js & MySQL</h4>
+<h5>*All images showing working code can be found in images folder*</h5>
 
 
 <h1>Overview</h1>
