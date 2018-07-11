@@ -1,16 +1,16 @@
-# bamazon
+<h1>bamazon</h1>
 
-Node.js & MySQL
+<h4>Node.js & MySQL</h4>
 
 
-Overview
+<h1>Overview</h1>
 
 In this activity, you'll be creating an Amazon-like storefront with the MySQL skills you learned this week. The app will take in orders from customers and deplete stock from the store's inventory. As a bonus task, you can program your app to track product sales across your store's departments and then provide a summary of the highest-grossing departments in the store.
 
 Make sure you save and require the MySQL and Inquirer npm packages in your homework files--your app will need them for data input and storage.
 
 
-Submission Guide
+<h2>Submission Guide</h2>
 
 Make sure you use the normal GitHub. Because this is a CLI App, there will be no need to deploy it to Heroku. This time, though, you need to include screenshots, a gif, and/or a video showing us that you got the app working with no bugs. You can include these screenshots or a link to a video in a README.md file.
 
@@ -23,7 +23,7 @@ Because screenshots (and well-written READMEs) are extremely important in the co
 If you haven't written a markdown file yet, click here for a rundown, or just take a look at the raw file of these instructions.
 
 
-Instructions
+<h2>Instructions</h2>
 
 
 Challenge #1: Customer View (Minimum Requirement)
@@ -175,11 +175,5 @@ Clothing
 The total_profit column should be calculated on the fly using the difference between over_head_costs and product_sales. total_profit should not be stored in any database. You should use a custom alias.
 If you can't get the table to display properly after a few hours, then feel free to go back and just add total_profit to the departments table.
 
-
-
-Hint: You may need to look into aliases in MySQL.
-Hint: You may need to look into GROUP BYs.
-Hint: You may need to look into JOINS.
-HINT: There may be an NPM package that can log the table to the console. What's is it? Good question :)
 
 
